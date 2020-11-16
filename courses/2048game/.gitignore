@@ -1,0 +1,8 @@
+/go2048game/go2048game
+/c2048game/2048
+/py2048game/.idea
+/go2048game/.idea
+/c2048game/.idea
+*.o
+*.pyc
+/.idea
