@@ -13,4 +13,5 @@
 [782-NBA-prediction](./NBA-prediction)  
 [987-PHPSocket](./PHPSocket)  
 [1182-Pacman](./Pacman)  
-[1218-Maze](./Maze)
+[1218-Maze](./Maze)  
+[560-C++实现运动目标追踪](./cpp-motion-target-tracking)  s
