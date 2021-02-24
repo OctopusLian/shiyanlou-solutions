@@ -1,5 +1,10 @@
-# 实验楼 Solutions  
+# Shiyanlou Solutions  
 
-- [训练营](./bootcamp)  
-- [比赛](./contests)  
-- [课程](./courses)
+[中文版](./README-cn.md)  
+
+- [bootcamp](./bootcamp)  
+- [contests](./contests)  
+- [courses](./courses)  
+- [challenges](./challenges)  
+
+Welcome come to comtribute ^_^
