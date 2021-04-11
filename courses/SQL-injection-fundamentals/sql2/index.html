@@ -1,0 +1,30 @@
+<title>实验楼Sql注入基础原理教程</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+</head>
+
+<body >
+第一次使用，请先点击"创建数据库"按钮
+<tr><a href="creatdb.php"><input type="button" value="创建数据库"></input></a></tr>
+<form action="validate.php" method="post">
+  <fieldset >
+
+    <legend>Sql注入演示</legend>
+
+    <table>
+      <tr>
+        <td>用户名：</td>
+        <td><input type="text" name="username"></td>
+      </tr>
+      <tr>
+        <td>密&nbsp;&nbsp;码：</td>
+        <td><input type="text" name="password"></td>
+      </tr>
+      <tr>
+        <td><input type="submit" value="提交"></td>
+        <td><input type="reset" value="重置"></td>
+      </tr>
+    </table>
+  </fieldset>
+</form>
+</body>
+</html>

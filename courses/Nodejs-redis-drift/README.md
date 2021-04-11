@@ -9,6 +9,7 @@ Redis
 
 ## 实验环境  
 
-- Node.js
-- Theia: 一款前后端分离的、基于 web 的 云 IDE。
-- Preview：浏览器，右键点击目标 html 文件，选择 open with 下的 Preview 即可在 IDE 中打开浏览器。
+- Node.js  
+- Theia: 一款前后端分离的、基于 web 的 云 IDE。  
+- Preview：浏览器，右键点击目标 html 文件，选择 open with 下的 Preview 即可在 IDE 中打开浏览器。  
+
